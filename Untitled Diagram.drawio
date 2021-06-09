@@ -1,1 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:02:34.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.6" etag="87EPB6YTYzB4h-SwpDg4" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-09T11:37:47.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="8tTBjN_wc9QzZ27jkhb2" version="14.7.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1466" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="akWaA7CeVGAc-KwagXO3-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="40" />
+              <mxPoint x="210" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Welcome Screen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-0" value="Student login" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="akWaA7CeVGAc-KwagXO3-3" source="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="40" as="sourcePoint" />
+            <mxPoint x="624" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="40" />
+              <mxPoint x="810" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-3" value="Business login" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-4" value="School / Organisation login" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="akWaA7CeVGAc-KwagXO3-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="50" as="sourcePoint" />
+            <mxPoint x="320" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="70" />
+              <mxPoint x="510" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-7" value="Profile page" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-8" value="Posts page" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-9" value="Job Map" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-10" value="Preferences page" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-12" value="- calendar view&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=left;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-14" value="- new notifications (audio)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="220" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-15" value="- relevant job openings" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="240" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-16" value="- filter searches" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-18" value="- relevancy heuristics&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="370" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-19" value="- saving features&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="390" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-20" value="- post interest" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="410" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-21" value="- comments" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-23" value="- subject interest" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-24" value="- personal information" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="260" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-25" value="- saved job openings" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="289" y="370" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-26" value="- persistent storage" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="289" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-27" value="&amp;nbsp;- interactive UK Map" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="200" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-28" value="- visualise competition" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="220" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-29" value="- visualise new openings" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="240" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-30" value="Job Map" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-31" value="- search map for criteria" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-32" value="- highlight area of the UK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="208" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-33" value="- launch advert in certain area of UK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="228" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-34" value="Statistics" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-35" value="- advertising graph" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-36" value="- impact of each advert" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="220" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-37" value="- ways to improve&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="240" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-38" value="Action Panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="745" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-39" value="- post an advert" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="330" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-40" value="- reply to interest in posts" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="350" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-41" value="- update posts" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-42" value="- post to social media" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="390" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-44" value="- organise activities with other schools / orgs" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="410" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-45" value="- see student interaction over past week" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="560" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-46" value="Student Monitoring" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-47" value="Messaging System" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-48" value="- see interests of students" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="575" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-50" value="Action Panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-51" value="- talk to organisations" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="575" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akWaA7CeVGAc-KwagXO3-52" value="- post to social media" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="555" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
